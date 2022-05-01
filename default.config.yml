@@ -82,6 +82,9 @@ homebrew_cask_apps:
   - visual-studio-code
   - iterm2
   - spotify
+  - skype
+  - telegram
+  - discord
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
