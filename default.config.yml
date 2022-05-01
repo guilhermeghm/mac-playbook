@@ -1,7 +1,7 @@
 ---
 downloads: ~/.ansible-downloads/
 
-configure_dotfiles: true
+configure_dotfiles: false
 configure_terminal: true
 configure_osx: true
 
@@ -60,7 +60,6 @@ homebrew_installed_packages:
   - wget
   - wrk
   - zsh-history-substring-search
-  - terraform
   - pre-commit
   - thefuck
   - tfswitch
