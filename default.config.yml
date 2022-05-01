@@ -75,7 +75,6 @@ homebrew_cask_apps:
   - docker
   - google-chrome
   - slack
-  - transmit
   - vagrant
   - enpass
   - visual-studio-code
